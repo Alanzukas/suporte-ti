@@ -1,0 +1,7 @@
+Nome de usuário: alan
+Senha: x
+UID:
+GID principal:
+GECOS: ,,,
+Diretório inicial:
+Shell:/bin/bash
